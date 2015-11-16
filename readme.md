@@ -1,0 +1,1 @@
+- does multicast-dns bind on all external interfaces

@@ -1,0 +1,16 @@
+{
+  "name": "multicast",
+  "version": "1.0.0",
+  "description": "attempt to discover a multicast service using either SSDP or MDNS, whichever works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lookup-multicast-dns": "^1.0.3",
+    "nat-upnp": "^1.0.0",
+    "register-multicast-dns": "^1.1.0"
+  },
+  "author": "max ogden",
+  "license": "ISC"
+}
